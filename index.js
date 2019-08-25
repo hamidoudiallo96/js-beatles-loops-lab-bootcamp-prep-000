@@ -1,7 +1,7 @@
 // add solution here
 
 var theBeatlesPlay = (arr1,arr2) =>{
-  newArr = []
+  let newArr = []
   let j;
   for(let i = 0; i<arr1.length; i++){
     j = i
