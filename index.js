@@ -27,11 +27,11 @@ var johnLennonFacts = arr =>{
 
 var iLoveTheBeatles = num =>{
   let arr = []
-  let i = 0
+
   do{
     arr.push("I love the Beatles!")
-    i+=1
-  }while(i<num)
+    num+=1
+  }while(num<15)
   return arr
 }
 
