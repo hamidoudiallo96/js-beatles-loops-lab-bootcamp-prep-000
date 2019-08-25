@@ -31,7 +31,7 @@ var iLoveTheBeatles = num =>{
   do{
     arr.push("I love the Beatles!")
     i+=1
-  }while(i<15)
+  }while(i<num)
   return arr
 }
 
