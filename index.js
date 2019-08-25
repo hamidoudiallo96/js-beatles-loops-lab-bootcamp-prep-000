@@ -24,3 +24,21 @@ var johnLennonFacts = arr =>{
   }
   return newArr
 }
+
+var iLoveTheBeatles = num =>{
+  let arr = []
+  let i = 0
+  do{
+    arr.push("I love the Beatles!")
+    i+=1
+  }while(i<15)
+  return array
+}
+
+
+
+
+
+
+
+
