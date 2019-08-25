@@ -19,8 +19,8 @@ const facts = [
 
 var johnLennonFacts = arr =>{
   let newArr =[]
-  for(let i = 0; i<facts.length; i++){
-    newArr.push(`${facts[i]}!!!`)
+  for(let i = 0; i<arr.length; i++){
+    newArr.push(`${arr[i]}!!!`)
   }
   return newArr
 }
